@@ -247,51 +247,32 @@ Contains:
 ## Screenshots
 
 ## Main Interface
-
-```md
-![Main UI](./screenshots/main-ui.jpeg)
-```
+![Main UI](screenshots/main-ui.jpeg)
 
 ---
 
 ## Process Input
-
-```md
-![Input](./screenshots/input-panel.jpeg)
-```
+![Input](screenshots/input-panel.jpeg)
 
 ---
 
 ## Priority Gantt Chart
-```md
-![Priority](./screenshots/priority-gantt.jpeg)
-```
+![Priority](screenshots/priority-gantt.jpeg)
 
 ---
 
 ## SRTF Gantt Chart
-
-```md
 ![SRTF](screenshots/srtf-gantt.jpeg)
-```
 
 ---
 
 ## Results Tables
-
-```md
-![Results](./screenshots/results.jpeg)
-```
+![Results](screenshots/results.jpeg)
 
 ---
 
 ## Comparison Summary
-```md
-![Summary](./screenshots/summary.jpeg)
-```
-
----
-
+![Summary](screenshots/summary.jpeg)
 ## How to Run
 
 Install Python 3.x
