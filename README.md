@@ -247,34 +247,29 @@ Contains:
 ## Screenshots
 
 ## Main Interface
-(Add screenshot here)
 
 ```md
-![Main UI](screenshots/main-ui.jpeg)
+![Main UI](./screenshots/main-ui.jpeg)
 ```
 
 ---
 
 ## Process Input
-(Add screenshot here)
 
 ```md
-![Input](screenshots/input-panel.jpeg)
+![Input](./screenshots/input-panel.jpeg)
 ```
 
 ---
 
 ## Priority Gantt Chart
-(Add screenshot here)
-
 ```md
-![Priority](screenshots/priority-gantt.jpeg)
+![Priority](./screenshots/priority-gantt.jpeg)
 ```
 
 ---
 
 ## SRTF Gantt Chart
-(Add screenshot here)
 
 ```md
 ![SRTF](screenshots/srtf-gantt.jpeg)
@@ -283,19 +278,16 @@ Contains:
 ---
 
 ## Results Tables
-(Add screenshot here)
 
 ```md
-![Results](screenshots/results.jpeg)
+![Results](./screenshots/results.jpeg)
 ```
 
 ---
 
 ## Comparison Summary
-(Add screenshot here)
-
 ```md
-![Summary](screenshots/summary.jpeg)
+![Summary](./screenshots/summary.jpeg)
 ```
 
 ---
