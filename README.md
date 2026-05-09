@@ -250,7 +250,7 @@ Contains:
 (Add screenshot here)
 
 ```md
-![Main UI](screenshots/main-ui.png)
+![Main UI](screenshots/main-ui.jpeg)
 ```
 
 ---
@@ -259,7 +259,7 @@ Contains:
 (Add screenshot here)
 
 ```md
-![Input](screenshots/input-panel.png)
+![Input](screenshots/input-panel.jpeg)
 ```
 
 ---
@@ -268,7 +268,7 @@ Contains:
 (Add screenshot here)
 
 ```md
-![Priority](screenshots/priority-gantt.png)
+![Priority](screenshots/priority-gantt.jpeg)
 ```
 
 ---
@@ -277,7 +277,7 @@ Contains:
 (Add screenshot here)
 
 ```md
-![SRTF](screenshots/srtf-gantt.png)
+![SRTF](screenshots/srtf-gantt.jpeg)
 ```
 
 ---
@@ -286,7 +286,7 @@ Contains:
 (Add screenshot here)
 
 ```md
-![Results](screenshots/results.png)
+![Results](screenshots/results.jpeg)
 ```
 
 ---
@@ -295,7 +295,7 @@ Contains:
 (Add screenshot here)
 
 ```md
-![Summary](screenshots/summary.png)
+![Summary](screenshots/summary.jpeg)
 ```
 
 ---
